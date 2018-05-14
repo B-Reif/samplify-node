@@ -1,0 +1,13 @@
+{
+  "name": "samplify-node",
+  "version": "0.0.1",
+  "description": "Client library for the Samplify API",
+  "main": "index.js",
+  "author": "Bruce Reif",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
